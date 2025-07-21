@@ -9,3 +9,6 @@ The script is designed to automatically retrieve store data from a web applicati
 5. **Generates a structured summary** that can be used for validation, reporting, or further processing.
 
 This automation significantly reduces manual effort and ensures complete data capture across all available pages in the system.
+
+## Author
+Ahmed Essam
