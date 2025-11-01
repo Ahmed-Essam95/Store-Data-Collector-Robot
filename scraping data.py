@@ -1,4 +1,3 @@
-from lxml.etree import XPath
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import Select
@@ -166,3 +165,4 @@ while stop_pagination == False  :
 print("Exiting....")
 stores_robot.quit()
 print("Task has been performed.")
+
